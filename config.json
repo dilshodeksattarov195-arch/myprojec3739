@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpave",
+        "uuid": 25671974,
+        "checksum": "3oxn09"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
